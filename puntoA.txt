@@ -1,0 +1,30 @@
+A. Clasifica cinco actividades cotidianas según sean sincrónicas o asincrónicas.
+
+- Cuando se tiene ganas de ir al baño y lo está ocupando una persona, es imposible hacer algo mientras se espera.
+- Cuando se enciende el computador, puedes preparar tu área de trabajo.
+- Cuando se cocina y pones un alimento a cocinar, puedes poner a cocinar otro mientras que el anterior está.
+- Cuando se lava en la lavadora, y llega la opción de centrifugar, tiene que esperar a que se acabe el tiempo de centrifugado.
+- Cuando se duerme, no se puede hacer nada además de dormir.
+
+B. Describe un ejemplo personal de código bloqueante aplicado a la vida diaria.
+
+- Cuando se está realizando una tarea que es muy larga, hasta que no la termines completa, no la puedes enviar.
+
+C. Explica, con tus palabras, cómo el event loop evita que tu ejemplo del punto 2
+genere un bloqueo total.
+
+- El event loop evita el bloqueo total porque no obliga al progama a esperar a que la tarea larga se termine antes de seguir con lo demas.
+
+D. Crea un ejemplo cotidiano que represente un callback.
+
+- Cuando pides comida a domicilio, llamas a la tienda y pides tu comida, mientras que la preparan y llega no te puedes quedar haciendo nada, mientras tanto haces otras cosas a lo que llega.
+
+E. Crea un ejemplo cotidiano que represente una promesa.
+
+- Cuando se lleva a un niño a la escuela y le promete llegar a cierta hora para llevarlo de regreso a su casa, y cuando llega esa hora el padre de familia tiene que cumplir la promesa de recogerlo en la escuela.
+
+F. Explica un ejemplo cotidiano que represente “esperar con intención”, similar a
+Async/Await.
+
+- Cuando prometes regalar algo en una fecha especial, mientras que se pasa el tiempo, sigue con su vida normal, pero sabe que en esa fecha especial, tiene que esperar con intencion, y a lo que se llegue el dia, dar el regalo. 
+
